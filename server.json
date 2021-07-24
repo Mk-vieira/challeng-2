@@ -1,0 +1,18 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://authenticfeet.vteximg.com.br/arquivos/ids/228716-1000-1000/Tenis-Nike-Air-Max-27-React-Masculino-Multicolor.jpg?v=637044260135100000",
+            "name":"Tenis Nike Air",
+            "description": "Absorve impacto",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "photo": "https://images.lojanike.com.br/1024x1024/produto/tenis-nike-revolution-5-masculino-BQ3204-400-1.jpg",
+            "name":"Tenis nike",
+            "description": "Minimalista e leve",
+            "price": 2000
+        }
+    ]
+}
